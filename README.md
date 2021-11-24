@@ -47,8 +47,8 @@ Mi blog: https://krisscaroli.github.io/MiBlog/
 <h3 align="center">GITHUB STATS<hr/></h3>
 
 <p align="center">
-<a href="https://github.com/krisscaroli">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=krisscaroli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krisscaroli&layout=compact&langs_count=8&theme=dracula"/>
-</a>
+ <a href="https://github.com/Brother-antony">
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Brother-antony&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Brother-antony&layout=compact&langs_count=8&theme=dark"/>
+ </a>
 </p>
